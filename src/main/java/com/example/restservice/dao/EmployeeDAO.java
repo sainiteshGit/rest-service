@@ -2,7 +2,7 @@ package com.example.restservice.dao;
 import org.springframework.stereotype.Repository;
 import com.example.restservice.model.Employees;
 import com.example.restservice.model.Employee;
-
+/*DAO Class*/
 @Repository
 public class EmployeeDAO {
     private static Employees list=new Employees();
